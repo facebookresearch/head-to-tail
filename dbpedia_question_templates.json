@@ -242,7 +242,7 @@
  "<http://dbpedia.org/ontology/thirdCommander>": "Who was the third commander of _?",
  "<http://dbpedia.org/ontology/march>": "The march of _ is called what?",
  "<http://dbpedia.org/ontology/secretaryGeneral>": "Who is the secretary general of _?",
- "<http://dbpedia.org/ontology/mergedWith>": "Which organization was merged into _?",
+ "<http://dbpedia.org/ontology/mergedWith>": "Which organization was _ merged into?",
  "<http://dbpedia.org/ontology/artist>": "_ was performed by?",
  "<http://dbpedia.org/ontology/aircraftHelicopter>": "What helicopter does the _ use?",
  "<http://dbpedia.org/ontology/treatment>": "What is a common treatment for _?",
