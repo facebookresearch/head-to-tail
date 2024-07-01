@@ -14,9 +14,9 @@ The following files need to be manually downloaded by the users.
 * [DBLP](https://dblp.uni-trier.de/xml/): `dblp.xml` (extracted from `dblp.xml.gz`)
 * [DBpedia](https://databus.dbpedia.org/dbpedia/mappings/mappingbased-objects): `mappingbased-objects_lang=en.ttl.bz2`
 
-Usage: `python head_to_tail_{imdb,goodreads,mag,dblp}.py --kg-dir DIRECTORY_CONTAINING_KG_FILES`
+Usage: `python head_to_tail_{imdb,goodreads,mag,dblp,dbpedia}.py --kg-dir DIRECTORY_CONTAINING_KG_FILES`
 
-The scripts will generate `head_to_tail_{imdb,goodreads,mag,dblp}.json` whose format is as follows.
+The scripts will generate `head_to_tail_{imdb,goodreads,mag,dblp,dbpedia}.json` whose format is as follows.
 
 ```
 {
